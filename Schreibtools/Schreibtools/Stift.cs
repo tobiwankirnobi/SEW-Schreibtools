@@ -8,7 +8,7 @@ namespace Schreibtools
     {
         public double Strichstaerker { get; set; }
         public ConsoleColor Farbe { get; set; }
-        asfsdagffag
+        public string Typ { get; set; }
 
     }
 }
