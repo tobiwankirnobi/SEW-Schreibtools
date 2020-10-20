@@ -1,0 +1,13 @@
+C:\Schule\SEW\2020_10_14_Schreibtools\Schreibtools\Schreibtools\bin\Debug\netcoreapp3.1\Schreibtools.exe
+C:\Schule\SEW\2020_10_14_Schreibtools\Schreibtools\Schreibtools\bin\Debug\netcoreapp3.1\Schreibtools.deps.json
+C:\Schule\SEW\2020_10_14_Schreibtools\Schreibtools\Schreibtools\bin\Debug\netcoreapp3.1\Schreibtools.runtimeconfig.json
+C:\Schule\SEW\2020_10_14_Schreibtools\Schreibtools\Schreibtools\bin\Debug\netcoreapp3.1\Schreibtools.runtimeconfig.dev.json
+C:\Schule\SEW\2020_10_14_Schreibtools\Schreibtools\Schreibtools\bin\Debug\netcoreapp3.1\Schreibtools.dll
+C:\Schule\SEW\2020_10_14_Schreibtools\Schreibtools\Schreibtools\bin\Debug\netcoreapp3.1\Schreibtools.pdb
+C:\Schule\SEW\2020_10_14_Schreibtools\Schreibtools\Schreibtools\obj\Debug\netcoreapp3.1\Schreibtools.csprojAssemblyReference.cache
+C:\Schule\SEW\2020_10_14_Schreibtools\Schreibtools\Schreibtools\obj\Debug\netcoreapp3.1\Schreibtools.AssemblyInfoInputs.cache
+C:\Schule\SEW\2020_10_14_Schreibtools\Schreibtools\Schreibtools\obj\Debug\netcoreapp3.1\Schreibtools.AssemblyInfo.cs
+C:\Schule\SEW\2020_10_14_Schreibtools\Schreibtools\Schreibtools\obj\Debug\netcoreapp3.1\Schreibtools.csproj.CoreCompileInputs.cache
+C:\Schule\SEW\2020_10_14_Schreibtools\Schreibtools\Schreibtools\obj\Debug\netcoreapp3.1\Schreibtools.dll
+C:\Schule\SEW\2020_10_14_Schreibtools\Schreibtools\Schreibtools\obj\Debug\netcoreapp3.1\Schreibtools.pdb
+C:\Schule\SEW\2020_10_14_Schreibtools\Schreibtools\Schreibtools\obj\Debug\netcoreapp3.1\Schreibtools.genruntimeconfig.cache
